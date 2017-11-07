@@ -1,12 +1,7 @@
 clc;
 clear;
 
-%QUESTION 2
-%_________________________________
-%NAME          : HUD SEIDU DAANNAA
-%UNIVERSITY ID : 6396082
-%_________________________________
-
+%TASK 2
 
 %Covers for watermrking process
 cover1  = imread('05.png');
