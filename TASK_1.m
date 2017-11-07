@@ -1,10 +1,9 @@
 clc
 clear
 
-%QUESTION 1
+%TASK 1
 %_________________________________
 %NAME          : HUD SEIDU DAANNAA
-%UNIVERSITY ID : 6396082
 %_________________________________
 
 %EMBEDING A STRING
