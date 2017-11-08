@@ -9,3 +9,5 @@ The script should test at least one textual string and at least one binary image
 For one selected parameter of the digital watermarking scheme, write a MATLAB
 script to calculate the PSNR values of watermarked images (5 marks) and to show how they
 change w.r.t. the parameter using a 2-D plot.
+
+#### Due to copyright laws, Please contact me for Water-mark embed and Extraction function
